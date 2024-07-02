@@ -4,7 +4,7 @@ header {background-color: black
 h1, h2 {text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: cornflowerblue;}
 main{background-color: lightgray;
 padding: 1em }
- body{ background-image: url(record.png);
+ body{ background-image: url('record.png')
     padding-left: 0;
     padding-top: 0;
     padding-bottom: 0;
